@@ -44,7 +44,7 @@
     <style>
         /* Custom Metallic Styles & Animations */
         body {
-            background-color: #050507;
+            background-color: #358736;
             color: #e2e8f0;
             font-family: 'Montserrat', sans-serif;
             overflow-x: hidden;
